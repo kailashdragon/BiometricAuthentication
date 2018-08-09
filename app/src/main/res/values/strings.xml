@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiometricAuth</string>
+    <string name="instruction">Place your fingertip to validate your identity</string>
+</resources>
